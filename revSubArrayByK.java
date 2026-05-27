@@ -24,9 +24,7 @@ class revSubArrayByK{
         int arr [] ={1, 2, 3, 4, 5};
         int k = 3;
         int n=arr.length;
-        
-
-       
+ 
         for( int i=0;i<n;i=i+k){
 
             int start= i;//first index
