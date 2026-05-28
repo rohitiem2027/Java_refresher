@@ -6,13 +6,9 @@ public class palindrome {
         while(num>0){
             int digit=num%10;//last digit
             reverse= reverse*10+digit;
-            num=num/10;
-
-
-            
+            num=num/10;   
         }
-        System.out.println(reverse);
-        
+        System.out.println(reverse);       
     }
     
 }
