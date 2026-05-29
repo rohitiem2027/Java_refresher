@@ -1,8 +1,20 @@
 //rotate by left means left er duto element sesh a jabeeh;
 //korte hoba vlo kore bujte hoba
-import java.util.Arrays;
 
 
+// How To Remember=>
+// LEFT ROTATION by d
+    // Reverse first d
+    // Reverse remaining
+    // Reverse whole
+// RIGHT ROTATION by k
+    // Reverse whole
+    // Reverse first k
+    // Reverse remaining
+  
+
+
+ import java.util.Arrays;
 
     class rotateBYLeftArray {
 
@@ -19,6 +31,7 @@ import java.util.Arrays;
             end--;
         }
         
+        
     }
 
     public static void main(String args[]) {
@@ -28,7 +41,7 @@ import java.util.Arrays;
         int n = arr.length;
 
         // Handle d greater than array size
-        d = d % n;//2%5=1
+        d = d % n;//2%5=2
         
 
 
