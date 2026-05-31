@@ -29,3 +29,6 @@ public class PrimeNumberCheck {
         }
     }
 }
+
+
+//dsa PROBLEMS PRIME NUMBER PRINT BETWEEN A GIVEN RANGE BY INPUT SYSTEM.
