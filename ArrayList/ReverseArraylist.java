@@ -32,6 +32,7 @@ public class ReverseArraylist {
         l1.add(5);
         l1.add(22);
         l1.add(10);
+        l1.add(130);
 
         System.out.println(l1);
         Collections.reverse(l1);//collection is a class and reverse is a method
