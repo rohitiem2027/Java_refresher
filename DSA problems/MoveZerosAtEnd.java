@@ -1,6 +1,6 @@
 import java.util.*;
 //Move all zeros at the end 
-public class Amcat2 {
+public class MoveZerosAtEnd {
     public static void main(String[] args) {
         int arr[]={1,0,2,0,5,0,3};
         int n=arr.length;
@@ -44,6 +44,7 @@ public class Amcat2 {
                 j++;
             }
         }
+
         System.out.println(Arrays.toString(arr));
     }
     
