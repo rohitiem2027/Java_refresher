@@ -1,6 +1,6 @@
 
 import java.util.*;
-public class MoveZerosAtFirst {
+public class MoveZerosAtFirstAndEnd {
     public static void main(String[] args) {
         int arr [] = {5,0,6,1,2,0,3,0,4};
 
